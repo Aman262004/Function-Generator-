@@ -10,6 +10,12 @@ Frequency Output:
 - Power Supply: ±12 V only.
 - Design Constraints: OP-AMPs and discrete components only; no IC waveform generators.
 
+Components:
+- The Inverting Integrator 
+- The Inverting Bistable Comparator
+- The DC to 土 Dc Convertor
+- Digital Switch
+
 Designed Voltage Controlled Function Generator
 ![Function Generator](https://github.com/Aman262004/Function-Generator-/blob/main/Function_Generator_In_Lab.png)
 
