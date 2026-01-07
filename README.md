@@ -1,8 +1,7 @@
-# Function-Generator-
-Created a frequency and output gain controlled function generator that outputs both triangular and square waves
+# Function-Generator
 Designed and built a fully analog Voltage-Controlled Function Generator (VCFG) capable of producing square and triangular waveforms with the following specifications:
-Waveform Types: Symmetrical square and triangular waves.
-Control Voltage Range: 0.1 V to 5 V.
+- Waveform Types: Symmetrical square and triangular waves.
+- Control Voltage Range: 0.1 V to 5 V.
 Frequency Output:
 Range 1: 100 Hz to fx (≈4400 Hz for this project).
 Range 2: 20 Hz to fx/5.
